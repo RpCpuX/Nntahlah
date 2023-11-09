@@ -1584,14 +1584,6 @@ https://github.com/andriwibowo2222/tvip/raw/main/disco-ch.m3u8
 #EXTINF:-1 group-title="DISCOVERY X-PLORER" tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/mdp2hnm9d2zi0cs/discovery.png", DISCOVERY ASIA (V*)
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/98
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="INDONESIA" tvg-id="AnimalPlanet.Id" tvg-logo="https://i.pinimg.com/736x/47/55/02/47550256a2f3d8793b8eb5d9292a5c29.jpg", Animal Planet EN (V*)
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 group-title="INDONESIA" tvg-id="AnimalPlanet.Id" tvg-logo="https://i.pinimg.com/736x/47/55/02/47550256a2f3d8793b8eb5d9292a5c29.jpg", Animal Planet ID (V*)
-https://github.com/andriwibowo2222/tvip/raw/main/animalplan3t.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
