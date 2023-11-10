@@ -201,7 +201,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
 http://210.210.155.37/uq2663/h/h217/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png" group-title="CHANNELS INDONESIA", SCTV 480p
-http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
+https://mantul.biz.id:443/ekos/748382/32.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png" group-title="CHANNELS INDONESIA", SCTV 720p
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
