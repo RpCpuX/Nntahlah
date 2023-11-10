@@ -1291,9 +1291,6 @@ https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.m
 
 ########################################  SPORTS BOLA ########################################
 
-#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/28n1lcpyx0qubqo/Screenshot_20230214_232508_Chrome.jpg" group-title="SPORTS BOLA", beIN Sports Xtra
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/2ovopi1tg2wym6v/mutv.png" group-title="SPORTS BOLA", MU TV
 ##https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
@@ -1445,6 +1442,9 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=154563&extension=
 http://210.210.155.35/uq2663/h/h09/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Motorvision_TV_HD
 
 ########################################  OTHER SPORTS ########################################
+
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/28n1lcpyx0qubqo/Screenshot_20230214_232508_Chrome.jpg" group-title="OTHER BOLA", beIN Sports Xtra
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 group-title="OTHER SPORTS" tvg-logo="https://dl.dropboxusercontent.com/s/e6vlhb82t8urfo3/adsports1.png", ABU DHABI SPORTS 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
