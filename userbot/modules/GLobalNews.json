@@ -311,7 +311,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="LOKAL CHANNELS" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png", JTV 2
+#EXTINF:-1 group-title="LOKAL CHANNELS" tvg-logo="https://dl.dropboxusercontent.com/s/svda56px53dzs70/jtv.png", JTV 2
 https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
 #EXTINF:-1 group-title="LOKAL CHANNELS" tvg-logo="https://dl.dropboxusercontent.com/s/siolbyggijbn3f9/magna.png", MAGNA TV
@@ -388,10 +388,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
 #EXTINF:-1 group-title="LOKAL CHANNELS" tvg-logo="https://thumbor.prod.vidiocdn.com/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg", MAGNA TV Backup
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1tvg-logo="https://thumbor.prod.vidiocdn.com/OKs6W73lGGE835lgmojVmts24NY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg" group-title="LOKAL CHANNELS", METRO GLOBE NETWORK
-https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-
 ########################################  INDO NEWS BERITA ########################################
+
+#EXTINF:-1tvg-logo="https://thumbor.prod.vidiocdn.com/OKs6W73lGGE835lgmojVmts24NY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg" group-title="INDO NEWS BERITA", METRO GLOBE NETWORK
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/ggn53c32adqoi6e/antaratv.png" group-title="INDO NEWS BERITA", Antara TV
 https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
