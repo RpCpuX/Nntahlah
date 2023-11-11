@@ -1584,6 +1584,9 @@ https://pizztv.qreatifku.my.id/cdnweb/Liputan6.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://pizztv.qreatifku.my.id/cdnweb/Bloomberg.mpd
 
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/LIVE-STREAMING-TV.jpg", CHANNEL KHUSUS YANG BERLANGGANAN !!!
+https://www.veed.io/embed/abc4dd03-ec70-46f6-8618-667e153aa612
+
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/LIVE-STREAMING-TV.jpg", JANGAN BAGIKAN APLIKASI BERLANGGANANMU!
 https://pizztv.qreatifku.my.id/cdnweb/nosignal.m3u8
 
