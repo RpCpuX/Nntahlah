@@ -133,7 +133,7 @@ http://xtv.ooo:8080/493121299/992121394/350972
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 group-title="CHANNELS INDONESIA" tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png", INDOSIAR HD (V*)
-https://mantul.biz.id:443/ekos/748382/5286.ts
+#https://mantul.biz.id:443/ekos/748382/5286.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -200,7 +200,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
 http://xtv.ooo:8080/493121299/992121394/351030
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png" group-title="CHANNELS INDONESIA", SCTV 480p
-https://mantul.biz.id:443/ekos/748382/32.ts
+#https://mantul.biz.id:443/ekos/748382/32.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png" group-title="CHANNELS INDONESIA", SCTV 720p
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
