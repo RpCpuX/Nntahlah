@@ -131,7 +131,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/162138
 
 #EXTINF:-1 group-title="CHANNELS INDONESIA" tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png", INDOSIAR HD (V*)
-https://mantul.biz.id:443/ekos/748382/32.ts
+https://mantul.biz.id:443/ekos/748382/5286.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
