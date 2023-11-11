@@ -125,7 +125,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png" group-title="CHANNELS INDONESIA", INDOSIAR 480p
 #https://raw.githubusercontent.com/RpCpuX/KUTIL/main/indosiar.m3u8
-https://mantul.biz.id:443/ekos/748382/5286.ts
+http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 
 #EXTINF:-1 group-title="CHANNELS INDONESIA" tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png", INDOSIAR HD (V*)
 http://iptvtree.net:8080/Vladisergeevic/7eef2c4388/162138
@@ -189,7 +189,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
 https://mantul.biz.id:443/ekos/748382/32.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png" group-title="CHANNELS INDONESIA", SCTV 480p
-http://xtv.ooo:8080/493121299/992121394/351030
+http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
