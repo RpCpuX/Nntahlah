@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=836280,CODECS="mp4a.40.2,avc1.64001f",RESOLUTION=848x480,NAME="480",PROGRESSIVE-URI="https://proxy-37.sg1.dailymotion.com/sec(nDftb8CoN-obPu_QIiPmk93TcRdXi9rFY4HDLKOWc0Y)/video/778/193/521391877_mp4_h264_aac_hq_3.mp4#cell=sg1"
+https://proxy-37.sg1.dailymotion.com/sec(_MR2-nuL8DGH1FsPGkJ4SfehW_P64rj83dx64n700EZUfHntSTX83UCNZFUqeOQB6MWdIoWoqQ7nxJU301Lwm3GBSRyBVhwj9xJa4uGs8OY)/video/778/193/521391877_mp4_h264_aac_hq_3.m3u8#cell=sg1
+#EXT-X-STREAM-INF:BANDWIDTH=836280,CODECS="mp4a.40.2,avc1.64001f",RESOLUTION=848x480,NAME="480",PROGRESSIVE-URI="https://proxy-29.sg1.dailymotion.com/sec(r3voU3x_Kh_Tzq_42_Mu-Wqpec53bWxjEgEWcXuEM6Y)/video/778/193/521391877_mp4_h264_aac_hq_3.mp4#cell=sg1"
+https://proxy-29.sg1.dailymotion.com/sec(_MR2-nuL8DGH1FsPGkJ4SfehW_P64rj83dx64n700EZUfHntSTX83UCNZFUqeOQB6MWdIoWoqQ7nxJU301Lwm3GBSRyBVhwj9xJa4uGs8OY)/video/778/193/521391877_mp4_h264_aac_hq_3.m3u8#cell=sg1
+#EXT-X-STREAM-INF:BANDWIDTH=460560,CODECS="mp4a.40.5,avc1.4d0016",RESOLUTION=512x288,NAME="380",PROGRESSIVE-URI="https://proxy-37.sg1.dailymotion.com/sec(Acm6fPcq69pGvja0rfvUoY0rnHEHA1bIPnsmmlrhSCU)/video/778/193/521391877_mp4_h264_aac_3.mp4#cell=sg1"
+https://proxy-37.sg1.dailymotion.com/sec(_MR2-nuL8DGH1FsPGkJ4SfehW_P64rj83dx64n700EaUnBDpvPsCn1MiIaqfeqUZGJXZFz4p8Zrz-B3Y92UtNL5hnQEraj2ZQHiC2OTExIc)/video/778/193/521391877_mp4_h264_aac_3.m3u8#cell=sg1
+#EXT-X-STREAM-INF:BANDWIDTH=460560,CODECS="mp4a.40.5,avc1.4d0016",RESOLUTION=512x288,NAME="380",PROGRESSIVE-URI="https://proxy-29.sg1.dailymotion.com/sec(voRqJlDayPOvjHz7EmC4tt5wLg99lTsH1rz_eznV60I)/video/778/193/521391877_mp4_h264_aac_3.mp4#cell=sg1"
+https://proxy-29.sg1.dailymotion.com/sec(_MR2-nuL8DGH1FsPGkJ4SfehW_P64rj83dx64n700EaUnBDpvPsCn1MiIaqfeqUZGJXZFz4p8Zrz-B3Y92UtNL5hnQEraj2ZQHiC2OTExIc)/video/778/193/521391877_mp4_h264_aac_3.m3u8#cell=sg1
+#EXT-X-STREAM-INF:BANDWIDTH=2149280,CODECS="mp4a.40.2,avc1.64001f",RESOLUTION=1280x720,NAME="720",PROGRESSIVE-URI="https://proxy-37.sg1.dailymotion.com/sec(OLkUdI4lXm6Z4h_PS7u2QV9dTakUvKR9heXA1-IftR4)/video/778/193/521391877_mp4_h264_aac_hd_3.mp4#cell=sg1"
+https://proxy-37.sg1.dailymotion.com/sec(_MR2-nuL8DGH1FsPGkJ4SfehW_P64rj83dx64n700EZVDmMytMxRKJUpvSoQMSr9xYvZ4KRs2Pfef4b8Jju6j8oLG6izatBHyphSxTdFs8A)/video/778/193/521391877_mp4_h264_aac_hd_3.m3u8#cell=sg1
+#EXT-X-STREAM-INF:BANDWIDTH=2149280,CODECS="mp4a.40.2,avc1.64001f",RESOLUTION=1280x720,NAME="720",PROGRESSIVE-URI="https://proxy-29.sg1.dailymotion.com/sec(wKH2xlS4f2R-fc7TNwdC6OC1NnJg7qMtwSK_BIS6D6c)/video/778/193/521391877_mp4_h264_aac_hd_3.mp4#cell=sg1"
+https://proxy-29.sg1.dailymotion.com/sec(_MR2-nuL8DGH1FsPGkJ4SfehW_P64rj83dx64n700EZVDmMytMxRKJUpvSoQMSr9xYvZ4KRs2Pfef4b8Jju6j8oLG6izatBHyphSxTdFs8A)/video/778/193/521391877_mp4_h264_aac_hd_3.m3u8#cell=sg1
