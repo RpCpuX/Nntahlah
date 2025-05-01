@@ -3118,7 +3118,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCEntertainment/sa_dash/MNCEntert
 
 
 
-#EXTINF: -1 tvg-id="citradangdut.macan" tvg-logo="https://i.imgur.com/lheunFq.png" group-title="MUSIC CHANNELS", CITRA DANGDUT
+#EXTINF: -1 tvg-id="citradangdut.macan" tvg-logo="https://i.imgur.com/lheunFq.png" group-title="INDONESIA ENTERTAINMENT", CITRA DANGDUT
 #EXTVLCOPT:http-user-agent=xplayer168
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/citradangdut.m3u8
 
@@ -3719,7 +3719,8 @@ https://m.vidio.com/videos/2058977/common_tokenized_playlist.m3u8
 #EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://tinyurl.com/yk8qucz9",Hanya Kamu yang Bisa
 https://m.vidio.com/videos/2058978/common_tokenized_playlist.m3u8 
 
-#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD NOAH & THE GROOVE - MENGHAPUS JEJAKMU https://dl.dropbox.com/s/1rzngr31wnwluat/NOAH%20-%20Menghapus%20Jejakmu%20%28feat.%20Rejoz%20TheGROOVE%29%20-%20Official%20Music%20Video.mp4?dl=0.m3u8
+#EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD NOAH & THE GROOVE - MENGHAPUS JEJAKMU 
+https://dl.dropbox.com/s/1rzngr31wnwluat/NOAH%20-%20Menghapus%20Jejakmu%20%28feat.%20Rejoz%20TheGROOVE%29%20-%20Official%20Music%20Video.mp4?dl=0.m3u8
 
 #EXTINF:-1 group-title="VOD MUSIC" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png", VOD NOAH - SEPERTI KEMARIN
 https://dl.dropbox.com/s/ohck36vdl607ir2/NOAH%20-%20Seperti%20Kemarin%20%28Official%20Music%20Video%29.mp4?dl=0.m3u8
