@@ -1,5 +1,4 @@
-﻿
-#EXTM3U 
+﻿#EXTM3U 
 #ERROR 404 FILE NOT FOUND
 
 
@@ -2466,25 +2465,29 @@
 
 
 
-#EXTM3U x-tvg-url=""  refresh="3600" Copi Ngentot!
+# Copi Ngentot!
 ######################################## PLAYLIST UNTUK ANGGOTA BERBAGI APLIKASI DAN PALYLIST GRATIS ########################################
                                                #### JANGAN DIJUAL,PEMAKAIAN PRIBADI SAJA  ####
 											   
 											   
 	
 									
-#EXTM3U x-tvg-url=""  refresh="3600" Copi Ngentot!
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz, "https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml","https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://epg.kampung.xyz/IPTV.xml,http://iptvtree.net:8080/xmltv.php?username=test_acct&password=ohbo1veifa4AhD,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml,https://assets.livednow.com/epg.xml,https://epg.v1.mk/fy.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml" refresh="3600" max-conn="1" refresh="24"
+# Copi Ngentot!
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz, https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://epg.kampung.xyz/IPTV.xml,http://iptvtree.net:8080/xmltv.php?username=test_acct&password=ohbo1veifa4AhD,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml,https://assets.livednow.com/epg.xml,https://epg.v1.mk/fy.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml" refresh="3600" max-conn="1" refresh="24"
 
 
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/LIVE-STREAMING-TV.jpg", A PLAYLIST FREE!
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://mantul.biz.id:443/ekos/748382/265.ts
 
 
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/LIVE-STREAMING-TV.jpg", JANGAN BAGIKAN APLIKASI BERLANGGANANMU!
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://raw.githubusercontent.com/RpCpuX/Nntahlah/main/userbot/02.m3u8
 
-#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/LIVE-STREAMING-TV.jpg", KARENA AKAN TERDETEKSI SYSTEM DAN CHANNEL AKAN CEPAT Expired & MOKAD!!!
+
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/LIVE-STREAMING-TV.jpg", KARENA AKAN TERDETEKSI SYSTEM DAN CHANNEL AKAN CEPAT EXPIRED & MOKAD!!!
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://raw.githubusercontent.com/RpCpuX/Nntahlah/main/userbot/02.m3u8
 
 
@@ -2496,12 +2499,6 @@ https://raw.githubusercontent.com/RpCpuX/Nntahlah/main/userbot/02.m3u8
 
 
 
-
-
-
-
-
-/// INDONESIA CHANNELS /////
 
 
 
@@ -4763,7 +4760,7 @@ https://raw.githubusercontent.com/RpCpuX/Nntahlah/main/userbot/02.m3u8
 
 
 
-#EXTM3U x-tvg-url=""  refresh="3600" Copi Ngentot!
+# Copi Ngentot!
 ######################################## PLAYLIST UNTUK ANGGOTA BERBAGI APLIKASI DAN PALYLIST GRATIS ########################################
                                                #### JANGAN DIJUAL,PEMAKAIAN PRIBADI SAJA  ####
 											   
