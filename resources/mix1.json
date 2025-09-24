@@ -21,6 +21,51 @@
         "url": "https://raw.githubusercontent.com/mozzaru/cloudstream-extensions-phisher/builds/Anichin.cs3",
         "name": "Anichin👻"
     },
+	{
+		"iconUrl": "https://animekhor.org/wp-content/uploads/2021/11/AnimeKhor_darkmode.png",
+        "jarFileSize": 71650,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 16682,
+        "status": 1,
+        "language": "zh",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 6,
+        "internalName": "Animekhor",
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animekhor.jar",
+        "description": "Anime and Movies",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animekhor.cs3",
+        "name": "Animekhor🐼"
+	},
+	{
+		"iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animexin.top&size=%size%",
+        "jarFileSize": 55663,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 13883,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 7,
+        "internalName": "Animexin",
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animexin.jar",
+        "description": "Anime and Movies",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animexin.cs3",
+        "name": "Animexin"
+	},
     {
         "iconUrl": "https://icons.duckduckgo.com/ip3/154.26.137.28.ico",
         "jarFileSize": 85613,
