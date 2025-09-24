@@ -2,23 +2,21 @@
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anichin.club&size=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/mozzaru/cloudstream-extensions-phisher",
-        "fileSize": 27912,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 32153,
         "status": 1,
         "language": "id",
         "authors": [
-            "mozzaru",
-            "kraptor123"
+            "kudai"
         ],
         "tvTypes": [
             "AnimeMovie",
-            "Anime",
-            "Cartoon"
+            "Anime"
         ],
         "version": 48,
         "internalName": "Anichin👻",
         "description": "Anime and Movies",
-        "url": "https://raw.githubusercontent.com/mozzaru/cloudstream-extensions-phisher/builds/Anichin.cs3",
+        "url": "https://gitlab.com/sannelitzzzz/bnahahgwhajjiendang/-/raw/HagcanamwkiwvevevyVYn/AnichinProvider.cs3",
         "name": "Anichin👻"
     },
     {
